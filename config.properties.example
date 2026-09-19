@@ -1,0 +1,5 @@
+db.host=your-instance.a.aivencloud.com
+db.port=24714
+db.name=defaultdb
+db.user=avnadmin
+db.password=your-password-here
